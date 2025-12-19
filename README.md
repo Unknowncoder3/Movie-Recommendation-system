@@ -86,6 +86,8 @@ jupyter notebook
 
 Open book_recommendation.ipynb and run all cells.
 
+---
+
 📊 Dataset
 
 Dataset contains:
