@@ -120,6 +120,9 @@ Movie-Recommendation-System/
 ├── app.py
 ├── requirements.txt
 └── README.md
+└── home.png
+└── shawshank.png
+└── Batman.png
 ```
 
 ---
