@@ -30,7 +30,7 @@ The system is built using **machine learning techniques** and deployed as a **pr
 
 * 🎥 Movie recommendations based on content similarity
 * 🧠 TF-IDF vectorization of movie metadata
-* 📐 Cosine similarity for ranking recommendations
+* 📐 Cosine similarity for ranking recommendations along with more advancements.
 * 🔍 Fuzzy matching for user-friendly movie search
 * 🌐 Fully deployed on **Streamlit Cloud**
 * ⚡ Fast & optimized using Streamlit caching
